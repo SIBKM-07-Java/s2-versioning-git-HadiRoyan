@@ -1,2 +1,4 @@
 Hello, saya Muhammad Hadi Royan Firdaus
 Saya dari Full-Stack Java Developer di Metrodata Academy
+
+Saya dari jurusan Informatika
